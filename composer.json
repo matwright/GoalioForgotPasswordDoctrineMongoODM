@@ -20,7 +20,7 @@
     "require": {
         "php": ">=5.3.3",
         "goalio/goalio-forgotpassword": "0.*",
-        "doctrine/doctrine-mongo-odm-module": "0.*"
+         "doctrine/doctrine-mongo-odm-module": "~1.0"
     },
     "autoload": {
         "psr-0": {
